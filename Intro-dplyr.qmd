@@ -4,6 +4,8 @@ author: "Teru SATO"
 format:
   revealjs:
     echo: false
+  pptx:
+    echo: alse
 ---
 
 ```{r}
