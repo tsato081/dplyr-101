@@ -1,7 +1,12 @@
 ---
 title: "Intro to dplyr"
+author: "Teru SATO"
 format:
   revealjs:
     echo: false
 ---
 
+```{r}
+library(here)
+here::i_am("dplyr-101.Rproj")
+```
